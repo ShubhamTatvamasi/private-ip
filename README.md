@@ -30,4 +30,15 @@ Total IP | 65,536
 
 ### Loopback IP Addresses
 
+CIDR | IP Range
+---|---
+CIDR Range | 127.0.0.0/8
+Netmask	| 255.0.0.0
+First IP | 127.0.0.0
+Last IP	| 127.255.255.255
+Total Host | 16,777,216
+
+
+
+
 
