@@ -2,6 +2,8 @@
 
 Calculator: https://www.ipaddressguide.com/cidr
 
+### Private IP Addresses
+
 CIDR | IP Range
 ---|---
 CIDR Range |10.0.0.0/8
@@ -25,4 +27,7 @@ Netmask	| 255.255.0.0
 First IP | 192.168.0.0
 Last IP	| 192.168.255.255
 Total IP | 65,536
+
+### Loopback IP Addresses
+
 
