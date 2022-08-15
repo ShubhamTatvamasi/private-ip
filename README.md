@@ -38,7 +38,14 @@ First IP | 127.0.0.0
 Last IP	| 127.255.255.255
 Total Host | 16,777,216
 
+### Link-local Addresses
 
-
+CIDR | IP Range
+---|---
+CIDR Range | 169.254.0.0/16
+Netmask	| 255.255.0.0
+First IP | 169.254.0.0
+Last IP	| 169.254.255.255
+Total Host | 65,536
 
 
