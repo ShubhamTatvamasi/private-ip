@@ -1,6 +1,6 @@
 # private-ip
 
-Calculator ˇhttps://www.ipaddressguide.com/cidr
+Calculator: https://www.ipaddressguide.com/cidr
 
 CIDR | IP Range
 ---|---
