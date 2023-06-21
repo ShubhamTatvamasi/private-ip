@@ -48,4 +48,14 @@ First IP | 169.254.0.0
 Last IP	| 169.254.255.255
 Total Host | 65,536
 
+### Multicast Addresses
+
+CIDR | IP Range
+---|---
+CIDR Range | 224.0.0.0/4
+Netmask	| 240.0.0.0
+First IP | 224.0.0.0
+Last IP	| 239.255.255.255
+Total Host | 268,435,456
+
 
