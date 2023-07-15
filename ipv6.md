@@ -1,4 +1,6 @@
-# IPv6 EUI-64 (Extended Unique Identifier)
+# IPv6
+
+### IPv6 EUI-64 (Extended Unique Identifier)
 
 IPv6 is **128** bits. \
 MAC Address **48** bits.
