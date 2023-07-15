@@ -16,6 +16,8 @@ Reverse 71th bit \
 ---|---|---|---|---|---
 Internet Service Provider | First 4 bits of mac address | reverse 71th bit | Same as mac address | `FFFE` | Last 24 bits of mac address
 2401:4900:1c65:89b1 | c | c | 75:73 | ff:fe | 26:2ec2
+fe80:: | c |c | 75:73 | ff:fe | 26:2ec2
+
 
 Hex | Binary
 ---|---
